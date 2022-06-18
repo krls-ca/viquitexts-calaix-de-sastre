@@ -6,10 +6,10 @@ Els codis tenen com a dependencia la llibreria pywikibot: https://www.mediawiki.
 
 Calaix de sastre dels diferents projectes Wikimedia:
 1. [Calaix de Sastre Viquipèdia](https://github.com/krls-ca/viquipedia-calaix-de-sastre)
-2. [Calaix de Sastre Wikimedia Commons](https://github.com/krls-ca/viquipedia-calaix-de-sastre)
-3. [Calaix de Sastre Wikidata](https://github.com/krls-ca/viquipedia-calaix-de-sastre)
-4. [Calaix de Sastre Viquitexts](https://github.com/krls-ca/viquipedia-calaix-de-sastre)
-5. [Calaix de Sastre Viquidites](https://github.com/krls-ca/viquipedia-calaix-de-sastre)
+2. [Calaix de Sastre Wikimedia Commons](https://github.com/krls-ca/ wikimedia-commons-calaix-de-sastre)
+3. [Calaix de Sastre Wikidata](https://github.com/krls-ca/wikidata-calaix-de-sastre)
+4. [Calaix de Sastre Viquitexts](https://github.com/krls-ca/viquitexts-calaix-de-sastre)
+5. [Calaix de Sastre Viquidites](https://github.com/krls-ca/viquidites-calaix-de-sastre)
 
 ## Reorganització Viquitexts en basc (2017, mant. 2018)
 
